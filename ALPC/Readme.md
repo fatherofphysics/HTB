@@ -2,6 +2,7 @@
 - Working on -> Windows 10+ version with Hotfix N/A
 - Confirm vulnerabilty
   - `icacls c:\windows\tasks`
+  - must return with Auth Users RX (Read Execute) perm
 <img width="545" height="161" alt="image" src="https://github.com/user-attachments/assets/eda010af-bbcc-4ed9-9f6a-224beaf17110" />
 <img width="744" height="528" alt="image" src="https://github.com/user-attachments/assets/27904111-9f75-4d43-ba36-da5427536036" />
 
