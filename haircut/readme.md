@@ -1,5 +1,6 @@
 ### On attacker machine
 `gcc -fPIC -shared -ldl -o libhax.so libhax.c`
+
 `gcc --static -o rootshell rootshell.c`
 
 ### victim machine
